@@ -1,1 +1,1 @@
-Disini belom ada konten
+index kita buat dengan menggunakan bantuan laravel
