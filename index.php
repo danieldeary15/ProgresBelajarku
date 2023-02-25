@@ -1,1 +1,1 @@
-index kita buat dengan menggunakan bantuan laravel saja
+kosong saja lah
